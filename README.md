@@ -28,6 +28,7 @@ I'm particularly interested in the intersection of **mathematics, programming, a
 * Adobe After Effects
 * Blender
 * Adobe Illustrator
+* Krita
 
 ### 🧠 Currently Learning
 
