@@ -37,7 +37,7 @@ I'm particularly interested in the intersection of **mathematics, programming, a
 ---
 
 ## 📊 GitHub
-<img src="https://streak-stats.demolab.com?user=drnayak21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=drnayak21&theme=synthwave&hide_border=true" alt="GitHub Streak" />
 
 --------------------------------------
 
