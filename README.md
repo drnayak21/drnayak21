@@ -40,3 +40,5 @@ I'm particularly interested in the intersection of **mathematics, programming, a
 
 <img src="https://streak-stats.demolab.com?user=drnayak21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
+<img src="https://github-readme-stats.vercel.app/api?username=drnayak21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="drnayak21's GitHub Stats" />
+
