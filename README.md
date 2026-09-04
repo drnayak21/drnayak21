@@ -15,6 +15,8 @@ I'm particularly interested in the intersection of **mathematics, programming, a
 * Python
 * NumPy
 * pandas
+* javascript
+* react
 
 ### 🤖 Machine Learning
 
