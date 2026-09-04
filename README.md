@@ -1,8 +1,8 @@
 # Hey, I'm Dhruv 👋
 
-I'm a CSE student interested in **software development, machine learning, competitive programming, and mathematics**.
+I'm a CSE student very much into **software development, machine learning, competitive programming, and mathematics**.
 
-I'm particularly interested in the intersection of **mathematics, programming, and problem solving**, and I'm currently building my foundations in each.
+I'm particularly interested in the intersection of **mathematics, programming, and problem solving**, and I'm currently building my foundations in each. YEPPP
 
 ---
 
@@ -40,5 +40,7 @@ I'm particularly interested in the intersection of **mathematics, programming, a
 
 <img src="https://streak-stats.demolab.com?user=drnayak21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=drnayak21&theme=tokyonight&show_icons=true&hide_border=true&count_private=true" alt="drnayak21's GitHub Stats" />
+
+![drnayak21's GitHub Stats](https://readme-stats-github.pages.dev/api?username=drnayak21&theme=light)
+
 
