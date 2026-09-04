@@ -41,6 +41,6 @@ I'm particularly interested in the intersection of **mathematics, programming, a
 <img src="https://streak-stats.demolab.com?user=drnayak21&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 
-[![drnayak21's GitHub Stats](https://readme-stats-github.pages.dev/api?username=drnayak21&theme=light)](https://gh-stats.deoxy.dev/)
+[![drnayak21's GitHub Stats](https://readme-stats-github.pages.dev/api?username=drnayak21&theme=synthwave)](https://gh-stats.deoxy.dev/)
 
 
