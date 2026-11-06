@@ -38,6 +38,9 @@ I'm particularly interested in the intersection of **mathematics, programming, a
 * Mathematics
 
 ---
+Metric Profile Key
+<img src="metrics.plugin.isocalendar.fullyear.svg" alt="My 3D Calendar" width="100%">
+
 
 ## 📊 GitHub
 <img src="https://streak-stats.demolab.com?user=drnayak21&theme=synthwave&hide_border=true" alt="GitHub Streak" />
