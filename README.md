@@ -1,57 +1,43 @@
-# Hey, I'm Dhruv 👋
+# Dhruv Nayak
 
-I'm a CSE student deeply interested in the intersection of **mathematics, programming, and problem solving**. Currently building out my foundations across software development, machine learning, and competitive programming.
+CSE undergraduate at MIT Manipal. I work on machine learning systems, security, and quantitative finance, and I like building things end to end and measuring whether they work.
 
----
+<br/>
 
-## 🛠️ Tech Stack & Tools
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3>💻 Programming</h3>
-      <img src="https://shields.io" alt="C" /><br/>
-      <img src="https://shields.io" alt="C++" /><br/>
-      <img src="https://shields.io" alt="Python" /><br/>
-      <img src="https://shields.io" alt="JavaScript" /><br/>
-      <img src="https://shields.io" alt="React" />
-    </td>
-    <td valign="top" width="33%">
-      <h3>🤖 Data & ML</h3>
-      <img src="https://shields.io" alt="NumPy" /><br/>
-      <img src="https://shields.io" alt="Pandas" /><br/>
-      <p>🧠 <b>Focusing on:</b><br/>
-      <small>• Mathematics for ML</small><br/>
-      <small>• ML Fundamentals</small></p>
-    </td>
-    <td valign="top" width="33%">
-      <h3>🎨 Creative Tools</h3>
-      <img src="https://shields.io" alt="After Effects" /><br/>
-      <img src="https://shields.io" alt="Blender" /><br/>
-      <img src="https://shields.io" alt="Illustrator" /><br/>
-      <img src="https://shields.io" alt="Krita" />
-    </td>
-  </tr>
-</table>
-
----
-
-## 📊 GitHub Metrics
-
-<p align="center">
-  <img src="https://demolab.com" alt="GitHub Streak" width="49%" />
-  <img src="https://pages.dev" alt="drnayak21's GitHub Stats" width="49%" />
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,py,java,js,html,css,linux,bash,git,github,pytorch,numpy,pandas&perline=14" alt="Tech stack" />
 </p>
 
+<br/>
+
+## Currently
+
+| Area | What I'm working on |
+|---|---|
+| **ML / AI safety** | Measuring and repairing safety drift in a fine-tuned finance LLM for the Lexsi AI Safety and Alignment Hackathon (Tiny Aya, SafeTune, AuditKIT) |
+| **Deep learning** | Neural networks from first principles, moving into PyTorch and transformer internals |
+| **Security** | Web and systems security labs (PortSwigger Web Security Academy, pwn.college) |
+| **Competitive programming** | Codeforces and USACO in C++ |
+| **Quant finance** | Indian equity markets and factor models |
+
+<br/>
+
+## Selected work
+
+**[lexsi-finance-safety](https://github.com/drnayak21/lexsi-finance-safety)** · in progress
+Fine-tune a small open-weights model on finance Q&A, quantify the resulting safety drift, then restore safety with a weight-space patch without retraining. Before/after metrics, with a live demo that toggles between the drifted and patched model.
+
+<br/>
+
+## Elsewhere
+
+[Hugging Face](https://huggingface.co/drnkwait) · [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE)
+
+Outside code: motion graphics and 3D (After Effects, Blender).
+
+<br/>
+
 <p align="center">
-  <img src="metrics.plugin.isocalendar.fullyear.svg" alt="My 3D Calendar" width="100%">
-</p>
-
----
-
-## 🤝 Connect with me
-<p align="left">
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=drnayak21&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=drnayak21&theme=github-dark-blue&hide_border=true" height="165" alt="GitHub streak" />
 </p>
